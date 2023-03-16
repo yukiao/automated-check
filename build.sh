@@ -1,1 +1,1 @@
-javac src/**/*.java
+javac -cp ./src/**/*.java
